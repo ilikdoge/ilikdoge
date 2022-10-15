@@ -14,7 +14,7 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilikdoge&layout=compact)
 
-### Specialties
+### Interests
 - Low Level
 - High Performance Code
 - Reverse Engineering
