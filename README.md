@@ -1,5 +1,4 @@
-![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilikdoge&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=ilikdoge)
+I like doge (the dog)
 
 | Languages             | Time        | Other        | Time              |
 | --------------------- | ----------- | ------------ | ----------------- |
@@ -13,6 +12,8 @@
 |                       |             | MongoDB      | 2020 -            |
 |                       |             | Electron     | 2020 -            |
 |                       |             | Flutter      | 2021 -            |
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilikdoge&layout=compact)
 
 ### Specialties
 - Low Level
