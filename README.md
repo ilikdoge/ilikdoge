@@ -12,7 +12,7 @@
 | Dart                  | 2021 -      | Electron     | 2020 -            |
 |                       |             | Flutter      | 2021 -            |
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilikdoge&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilikdoge&layout=compact&theme=radical)
 
 ### Interests
 - Low Level
