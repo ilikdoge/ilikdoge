@@ -1,4 +1,15 @@
-### I like doge (the dog)
+### I like doge
+###### (the dog)
+
+### Interests
+- Low Level
+- High Performance Code
+- Reverse Engineering
+
+![](https://github-readme-stats.vercel.app/api/?username=ilikdoge&theme=radical&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ilikdoge&theme=radical)
+
+### Experiences
 
 | Languages             | Time        | Other        | Time              |
 | --------------------- | ----------- | ------------ | ----------------- |
@@ -11,10 +22,3 @@
 | Assembly (x64, arm64) | 2021 -      | MongoDB      | 2020 -            |
 | Dart                  | 2021 -      | Electron     | 2020 -            |
 |                       |             | Flutter      | 2021 -            |
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ilikdoge&layout=compact&theme=radical)
-
-### Interests
-- Low Level
-- High Performance Code
-- Reverse Engineering
