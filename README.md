@@ -1,5 +1,4 @@
-### I like doge
-###### (the dog)
+Hello, I am David Zeng.
 
 ### Interests
 - Low Level
