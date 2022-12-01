@@ -2,8 +2,6 @@ Hello, I am David Zeng.
 
 Reverse engineering since 2017.
 
-High performance programming since 2018.
-
 ![](https://github-readme-stats.vercel.app/api/?username=davidzeng0&theme=radical&line_height=40)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=davidzeng0&theme=radical)
 
