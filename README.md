@@ -6,7 +6,7 @@
 ```rust
 fn about_me() {
     loop {
-        make_code_faster().unwrap();
+        write_efficient_code().unwrap();
     }
 }
 ```
