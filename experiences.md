@@ -9,4 +9,4 @@
 | Assembly (x64, arm64) | 2021 -      | MongoDB      | 2020 -            |
 | Dart                  | 2021 - 2022 | Electron     | 2020 - 2023       |
 | TypeScript            | 2023 -      | Flutter      | 2021 - 2022       |
-| Rust                  | 2023 -      |              |                   |
+| Rust                  | 2023 -      | Docker       | 2024 -            |
